@@ -120,3 +120,61 @@ button {
     text-align: center;
     color: #394452;
 }
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    padding: 120px 300px;
+    background-color: #E5E7EB;
+    color: #1F2937;
+}
+
+.samplequote {
+    font-size: 36px;
+}
+
+.sampleperson {
+    padding-top: 10px;
+    padding-right: 10px;
+    text-align: right;
+    font-size: 20px;
+}
+
+.CTAsection {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 300px;
+}
+
+.CTAbluebox {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 100px;
+    gap: 100px;
+    border-radius: 6px;
+    background-color: #3882F6;
+    color: #F9FAF8;
+}
+
+.CTAtitle {
+    font-size: 20px;
+}
+
+.CTAtext {
+    font-size: 13px;
+}
+
+.CTAbutton {
+    border: 2px solid white;
+
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 0px;
+    background-color: #1F2937;
+    color:#E5E7EB;
+}
