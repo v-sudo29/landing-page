@@ -8,4 +8,7 @@ This landing page uses **HTML** and **CSS**, emphasizing the use of **flexbox** 
 **Credit: The Odin Project**
 
 ## View Project
+1. Click on link
+2. Open JS console in browser
+
 [Click here](https://v-sudo29.github.io/landing-page/) to view.
